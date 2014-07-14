@@ -1,4 +1,4 @@
-prompt
+#prompt
 
 A node app that does the following utilizing sync-prompt:
 
